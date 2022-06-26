@@ -1,5 +1,8 @@
 # Estruturas genéricas
-
+## Estruturas de Dados  
+  
+![Estruturas de dados avançados](vecteezy_green-leaf-texture-background_1976097_1280x640_txt.jpg "fundo de textura de folha verde")  
+  
 Algumas estruturas genéricas em C  
   
 Este código foi produzido para responder aos desafios das seguintes unidades curriculares:  
